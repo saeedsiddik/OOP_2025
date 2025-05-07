@@ -6,11 +6,11 @@ This course will explain the basic topics of object-oriented concepts. The cours
 
 
 # Specific Objective:
-● To understand the principle of Object Oriented Architecture
-● To design problems from the perspective of Object Oriented Architecture
-● To be able to manage data, functions and user interactions using Object Orientation
-● To handle interconnection activities among different objects
-● To handle multithreaded activity on different objects
+- To understand the principle of Object Oriented Architecture
+- To design problems from the perspective of Object Oriented Architecture
+- To be able to manage data, functions and user interactions using Object Orientation
+- To handle interconnection activities among different objects
+- To handle multithreaded activity on different objects
 
 
 # Course Contents:
