@@ -23,7 +23,7 @@ public class MainClass {
 				double radious = scan.nextDouble();
 				
 				shape = new Circle("Circle 1", radious);
-				System.out.println("Area of Circle1 is: " + shape.getArea());
+				System.out.println("Area of your shape is: " + shape.getArea());
 			}
 			
 			else if(choice == 2){
@@ -33,7 +33,7 @@ public class MainClass {
 				double width = scan.nextDouble();
 				
 				shape = new Rectangle("Rectangle 1", length, width);
-				System.out.println("Area of Circle1 is: " + shape.getArea());
+				System.out.println("Area of  your shape is: " + shape.getArea());
 			}
 			
 		}while(true);
